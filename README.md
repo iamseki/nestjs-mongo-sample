@@ -1,5 +1,5 @@
-# Nestjs sample
+# Nestjs sample app
 
-### How this project was started :thinking:
+## Running the project locally :scroll:
 
-I started this project using `nest-cli`
+- The nest app and the mongo database can be running up with _`docker-compose up`_
